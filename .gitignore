@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Environment files
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build/generated files
+.dist/
+
+# Trained model
+models/*.model
+
+# Large dataset
+data/*.csv
+
